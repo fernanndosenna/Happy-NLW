@@ -1,0 +1,17 @@
+biblioteca usada: leafleft js
+
+Node ínicio
+
+npm init -y no terminal 
+
+npm install express
+
+npm install nodemon
+
+npm install hbs
+
+npm install sqlite-async
+
+vá no package.json, mude o parametro test para start, e o valor dentro das aspas limpe-os, e dentro coloque 
+nodemon src/server.js e depois npm start no terminal
+
