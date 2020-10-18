@@ -1,5 +1,8 @@
 biblioteca usada: leafleft js
 
+npm start para dar inicio ao programa
+
+
 Node ínicio
 
 npm init -y no terminal 
